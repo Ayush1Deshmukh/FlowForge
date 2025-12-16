@@ -1,0 +1,17 @@
+# Mac system files
+.DS_Store
+
+# Frontend dependencies
+node_modules/
+frontend/node_modules/
+dist/
+build/
+
+# Backend dependencies
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
